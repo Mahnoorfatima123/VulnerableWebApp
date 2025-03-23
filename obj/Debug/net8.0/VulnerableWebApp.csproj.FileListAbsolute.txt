@@ -1,0 +1,7 @@
+/Users/hussainkhawaja/VulnerableWebApp/obj/Debug/net8.0/VulnerableWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hussainkhawaja/VulnerableWebApp/obj/Debug/net8.0/VulnerableWebApp.AssemblyInfoInputs.cache
+/Users/hussainkhawaja/VulnerableWebApp/obj/Debug/net8.0/VulnerableWebApp.AssemblyInfo.cs
+/Users/hussainkhawaja/VulnerableWebApp/obj/Debug/net8.0/VulnerableWebApp.csproj.CoreCompileInputs.cache
+/Users/hussainkhawaja/VulnerableWebApp/obj/Debug/net8.0/VulnerableWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/hussainkhawaja/VulnerableWebApp/obj/Debug/net8.0/VulnerableWebApp.RazorAssemblyInfo.cache
+/Users/hussainkhawaja/VulnerableWebApp/obj/Debug/net8.0/VulnerableWebApp.RazorAssemblyInfo.cs
